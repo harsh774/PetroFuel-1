@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PetroFuel</string>
+    <string name="current_price">current_price</string>
+    <string name="copyright_all_rights_are_reserved_by_dash_pro">Copyright-All rights are reserved by DASH-PRO</string>
+    <string name="todo">TODO</string>
+    <string name="contact_us">contact_us</string>
+    <string name="petrol">Petrol</string>
+    <string name="save_fuel">save_fuel</string>
+    <string name="mileage">Mileage</string>
+
+</resources>

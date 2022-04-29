@@ -10,3 +10,8 @@ About for the info of our app.
 Team for the programmers who have created this.
 4. Now in petrol feature we have added the petrol calculation logic with some easy steps. And in Mileage feature it will calculate the persons vehicle mileage. 
 5. Fuel price gets updated on regular basis based on price of fuel in your state .
+
+
+
+
+![WhatsApp Image 2022-04-29 at 1 12 25 PM](https://user-images.githubusercontent.com/80757890/165934446-09e0522c-8f37-471b-8472-0f0099e07acd.jpeg)

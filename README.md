@@ -14,4 +14,3 @@ Team for the programmers who have created this.
 
 
 
-![WhatsApp Image 2022-04-29 at 1 12 25 PM](https://user-images.githubusercontent.com/80757890/165934446-09e0522c-8f37-471b-8472-0f0099e07acd.jpeg)
